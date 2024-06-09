@@ -28,3 +28,32 @@
     color: #00796b;
   }
   
+
+  /* Responsive styles */
+@media (max-width: 768px) {
+  .About {
+    padding: 15px;
+  }
+
+  .About h1 {
+    font-size: 1.5rem;
+  }
+
+  .About p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .About {
+    padding: 10px;
+  }
+
+  .About h1 {
+    font-size: 1.2rem;
+  }
+
+  .About p {
+    font-size: 0.8rem;
+  }
+}
