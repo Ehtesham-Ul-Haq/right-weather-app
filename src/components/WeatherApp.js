@@ -6,7 +6,7 @@ import WeatherDisplay from './WeatherDisplay';
 const WeatherApp = () => {
   const [weatherData, setWeatherData] = useState(null);
   const [error, setError] = useState('');
-  const API_KEY = '5adb19fcccc86d95225daba3a65cddb6';
+  const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
 
   const fetchWeather = async (city) => {
     try {
