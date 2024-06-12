@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Serif Devanagari
+- Font Author: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)
+- Font Source: https://fonts.gstatic.com/s/notoserifdevanagari/v28/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTCXpA-HMUe1u_dv.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
